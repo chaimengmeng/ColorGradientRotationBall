@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomRingView">
+        <!--开始渐变颜色-->
+        <attr name="startColor" format="color|reference"/>
+        <!--最后渐变颜色-->
+        <attr name="endColor" format="color|reference"/>
+        <!--圆半径-->
+        <attr name="radius" format="float"/>
+        <!--笔刷宽度-->
+        <attr name="strokeWidth" format="float"/>
+    </declare-styleable>
+
+</resources>
